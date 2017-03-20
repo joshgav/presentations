@@ -1,0 +1,33 @@
+{
+  "name": "new-in-node",
+  "version": "0.1.0",
+  "description": "New in Node.js and the Foundation",
+  "main": "index.js",
+  "files": [
+    "index.html",
+    "index.md",
+    "assets/node_logo.jpg",
+    "assets/nodejs_collection.png"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgav/demos.git"
+  },
+  "keywords": [
+    "presentation"
+  ],
+  "author": "Josh Gavant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgav/demos/issues"
+  },
+  "homepage": "https://github.com/joshgav/demos#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "grunt": "^1.0.1",
+    "reveal.js": "^3.4.1"
+  }
+}
