@@ -1,0 +1,31 @@
+{
+  "name": "node-diagnostics",
+  "version": "0.1.0",
+  "description": "Diagnostics in Node.js",
+  "main": "index.js",
+  "files": [
+    "index.html",
+    "index.md",
+    "assets/node_logo.jpg",
+    "assets/inspector_arch.png",
+    "assets/tracing_controller_arch.png"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgav/demos.git"
+  },
+  "author": "Josh Gavant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgav/demos/issues"
+  },
+  "homepage": "https://github.com/joshgav/demos#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "grunt": "^1.0.1",
+    "reveal.js": "^3.4.1"
+  }
+}
